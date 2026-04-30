@@ -56,3 +56,6 @@ public class Airport extends Route {
 
     
 }
+
+
+//This is the data entity used to map airport name to airport IATA code, that allows us to have an entity in MngoDB A\tlas.
